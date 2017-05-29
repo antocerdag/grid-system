@@ -1,0 +1,23 @@
+.caja{
+	background-color: #FF66FF;
+}
+
+header{
+	text-align: center;
+}
+
+.back {
+	background-image: url(http://lorempixel.com/output/cats-q-c-1200-800-3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 270px;
+
+}
+
+.back .container{
+	background-color: rgba(255,255,255, 0.5);
+	position: relative;
+	height: 200px;
+	width: 91%;
+}
